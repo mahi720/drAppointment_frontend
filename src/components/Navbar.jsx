@@ -52,7 +52,7 @@ const Navbar = () => {
             hidden
           />
         </NavLink>
-        <NavLink to="/admin-panel">
+        <NavLink to="https://de-appointment-admin.vercel.app/">
           <li className="py-1">Admin Panel</li>
           <hr
             className="border-none outline-none h-0.5 bg-primary w-3/5 m-auto"
