@@ -128,7 +128,8 @@ const Navbar = () => {
             <NavLink onClick={() => setShowMenu(false)} to="/contact">
               <p className="px-4 py-2 rounded inline-block">Contact</p>
             </NavLink>
-            <NavLink onClick={() => setShowMenu(false)} to="https://de-appointment-admin.vercel.app/">
+            <NavLink onClick={() => setShowMenu(false)} to="https://de-appointment-admin.vercel.app/"  target = "_blank"
+             rel = "noopener noreferrer">
               <p className="px-4 py-2 rounded inline-block">Admin Panel</p>
             </NavLink>
           </ul>
