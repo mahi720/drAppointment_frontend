@@ -53,9 +53,9 @@ const Navbar = () => {
           />
         </NavLink>
         <NavLink to="https://de-appointment-admin.vercel.app/">
-          <li className="py-1">Admin Panel</li>
+          <li className="border px-3 py-1 rounded-full border-gray-500 text-gray-600">Admin Panel</li>
           <hr
-            className="border px-3 py-1 rounded-full border-gray-500 text-gray-600"
+            className="border-none outline-none h-0.5 bg-primary w-3/5 m-auto"
             hidden
           />
         </NavLink>
