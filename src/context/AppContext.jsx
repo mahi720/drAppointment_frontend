@@ -71,7 +71,7 @@ const AppContextProvider = ({ children }) => {
 
   useEffect(() => {
     getDoctorsData();
-  }, [doctors]);
+  }, []);
 
   useEffect(() => {
     if (token) {
