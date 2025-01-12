@@ -1,6 +1,5 @@
-import React from "react";
+import { useContext } from "react";
 import { assets } from "../assets/assets";
-import { useNavigate } from "react-router-dom";
 import { useNavigate } from "react-router-dom";
 import { AppContext } from "../context/AppContext";
 
