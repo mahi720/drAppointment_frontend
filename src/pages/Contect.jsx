@@ -22,7 +22,7 @@ const Contect = () => {
             00000 Willms Station <br /> Suite 000, Washington, USA
           </p>
           <p className="text-gray-500">
-            Tel: (000) 000-0000 <br /> Email: greatstackdev@gmail.com
+            Tel: (+91) 000-0000 <br /> Email: somammahi@gmail.com
           </p>
           <p className="font-semibold text-lg text-gray-600">
             CAREERS AT PRESCRIPTO
